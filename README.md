@@ -1,11 +1,6 @@
 # Natália's Portfolio 🎨  
 
-This project was developed as a birthday gift for my girlfriend, Natália,  
-a wonderfully talented fashion student with an inspiring creative spirit.The site serves as 
-an online portfolio to showcase her fashion projects, allowing her to share her creations with a wider  
-audience and establish her online presence. Each project contains several images  
-that can be easily navigated, and the project descriptions focus on the technical  
-aspect, detailing the creative processes and tools used.  
+This project was developed as a birthday gift for my girlfriend, Natália, a wonderfully talented fashion student with an inspiring creative spirit. The site serves as an online portfolio to showcase her fashion projects, allowing her to share her creations with a wider audience and establish her online presence. Each project contains several images that can be easily avigated, and the project descriptions focus on the technical aspect, detailing the creative processes and tools used.  
 
 ## Technologies Used 🚀  
 
