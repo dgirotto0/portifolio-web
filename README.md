@@ -1,29 +1,28 @@
-# Portfólio de Natália 🎨
+# Natália's Portfolio 🎨  
 
-Este projeto foi desenvolvido como um presente de aniversário para minha namorada, Natália, 
-que é uma talentosa estudante de moda. O site serve como um portfólio online para 
-exibir seus projetos de moda, permitindo que ela compartilhe suas criações com um público mais 
-amplo e estabeleça sua presença online. Cada projeto contém várias imagens que podem ser 
-facilmente navegadas, e as descrições dos conhecimentos focam na parte técnica, detalhando os 
-processos criativos e as ferramentas utilizadas.
+This project was developed as a birthday gift for my girlfriend, Natália,  
+a wonderfully talented fashion student with an inspiring creative spirit.The site serves as 
+an online portfolio to showcase her fashion projects, allowing her to share her creations with a wider  
+audience and establish her online presence. Each project contains several images  
+that can be easily navigated, and the project descriptions focus on the technical  
+aspect, detailing the creative processes and tools used.  
 
+## Technologies Used 🚀  
 
-## Tecnologias Utilizadas 🚀
+- **HTML5**: Semantic structure of the site.  
+- **CSS3**: Page styling, focusing on modern and responsive design.  
+- **JavaScript**: Site interactivity, including image swapping in modals and navigation between different portfolio sections.  
+- **Bootstrap**: CSS framework used to speed up development and ensure responsiveness.  
+- **FontAwesome**: Icon set used to visually represent links and actions.  
+- **GitHub Pages**: Hosting of the site directly from the GitHub repository.  
 
-- **HTML5**: Estrutura semântica do site.
-- **CSS3**: Estilização das páginas, com foco em um design moderno e responsivo.
-- **JavaScript**: Interatividade do site, incluindo a troca de imagens nos modais e a navegação entre diferentes seções do portfólio.
-- **Bootstrap**: Framework CSS utilizado para agilizar o desenvolvimento e garantir responsividade.
-- **FontAwesome**: Conjunto de ícones usado para representar visualmente os links e ações.
-- **GitHub Pages**: Hospedagem do site diretamente a partir do repositório do GitHub.
+## Implemented Features ✨  
 
-## Funcionalidades Implementadas ✨
+- **Simple and Intuitive Navigation**: Designed to be easy to use, with a clean interface and a navigation bar to access the main sections.  
+- **Image Gallery**: Each project contains an image gallery that can be browsed using modal functionality with image sliding.  
+- **Technical Project Descriptions**: Focus on detailing the technical aspects of fashion projects, while maintaining naturalness and fluidity in presentation.  
+- **Responsiveness**: Layout adaptable to different screen sizes, ensuring a good user experience on mobile and desktop devices.  
 
-- **Navegação Simples e Intuitiva**: Projetado para ser fácil de usar, com uma interface limpa e uma barra de navegação para acessar as seções principais.
-- **Galeria de Imagens**: Cada projeto contém uma galeria de imagens que pode ser navegada utilizando a funcionalidade de modal com troca de imagens ao deslizar.
-- **Descrição Técnica dos Projetos**: Foco em detalhar os aspectos técnicos dos projetos de moda, sem perder a naturalidade e a fluidez na apresentação.
-- **Responsividade**: Layout adaptável a diferentes tamanhos de tela, garantindo uma boa experiência de usuário em dispositivos móveis e desktops.
+## License 📜  
 
-## Licença 📜
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details.  
